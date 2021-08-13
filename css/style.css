@@ -1,0 +1,76 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.nav{
+    background-image: url("../css/img/22.jpg");
+    background-size: cover;
+    padding: 10px;
+    height: 450px;
+}
+.nav ul{
+    display: inline-flex;
+    margin: 20px;
+    margin-left: 0px;
+}
+.nav ul li{
+    font-size: x-large;
+    list-style: none;
+    margin: 0 20px;
+    color: teal;
+    cursor: pointer;
+}
+.sec{
+    text-align: center;
+    padding: 60px;
+    margin: 0px;
+}
+.text{
+    color: teal;
+    font-size: xx-large;
+}
+button{
+    color:#fff;
+    border: 1px solid transparent;
+    background-color: cornflowerblue;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+h1{
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+.pic1{
+    
+    margin-left: 200px;
+}
+.section2{
+    width: 100%;
+    margin-block-end: -10%;
+}
+.section2 h1{
+    margin-left: 500px;
+}
+.section2 p{
+    margin-left: 700px;
+}
+.img3{
+    margin-left:200px;
+}
+.section3{
+    width: 100%;
+    margin-block-end: -10%;
+}
+.section3 h1{
+    margin-right: 500px;
+}
+.section3 p{
+    margin-left: 200px;
+}
+.img4{
+    margin-left:850px;
+}
